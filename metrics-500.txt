@@ -1,0 +1,3 @@
+Time to multiply matrices with size:  500x500 doubles : 0.926551717 s
+Time for BLAS to multiply matrices with size:  500x500 doubles : 0.003700694 s
+result matrices comprasion (m3 == m4): 1
